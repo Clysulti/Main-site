@@ -1,6 +1,6 @@
 # Main-site
 
-This is the main site of Clysulti, feel free to propose new search engines!
+This is the main site of Clysulti, feel free to ask for new search engines!
 
 list of search engine:
 Google
